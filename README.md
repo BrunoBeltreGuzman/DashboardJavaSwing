@@ -22,7 +22,7 @@ Value(int value);
 Value: Para establecer el valor del JBar.
 
 String(String data);
-String: para establecer y mostrar el valor que contiene el JBar
+String: para establecer y mostrar el valor que contiene el JBar.
 
 ![Image](https://github.com/BrunoBeltreGuzman/DashboardJavaSwing/blob/master/Screenshots2.png)
 
